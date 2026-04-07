@@ -1,9 +1,9 @@
 {
-  "lang": "cpon",
-  "generate_from_json": null,
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-cpon",
   "semver": false,
   "parser_version": "594289eadfec719198e560f9d7fd243c4db678d5",
   "location": null,
-  "generate": null
+  "generate_from_json": null,
+  "generate": null,
+  "lang": "cpon",
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-cpon"
 }
